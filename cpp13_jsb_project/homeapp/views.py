@@ -10,8 +10,8 @@ from homeapp.models import TTest2
 
 """
 this is test conflict
+222222111111
 class article:
-
     @staticmethod
     def index(request):
         return HttpResponse("this is article index!")
